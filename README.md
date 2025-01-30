@@ -6,8 +6,7 @@ I only included `draft`, `publish`, `rename`, and `unpublish` because I was too 
 ## Prerequisites 
 - Install [Jekyll-Compose](https://github.com/jekyll/jekyll-compose).
 - Use **Zsh** like a civilized person.
-## Install (Pick Your Poison)
-
+## Install 
 ### Option 1: The "I Trust Random Internet Code" Method
 
 Run this and hope for the best:
